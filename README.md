@@ -1,3 +1,2 @@
-# Google:  Project House Acquisition
+# Success in Seattle
 
-Another module down - you're almost half way there!
